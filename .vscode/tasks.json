@@ -1,0 +1,20 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile Fortran",
+            "type": "shell",
+            "command": "C:/Program Files/mingw64/bin/gfortran.exe",
+            "args": ["-g", 
+                     "C:/Users/16072/OneDrive/Desktop/ibis/ibis_2.6b4/main.f",
+                    ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
+

@@ -1,0 +1,18 @@
+  
+ ****************************************
+ * IBIS: Integrated BIosphere Simulator *
+ * Version 2.6b3                        *
+ * March 2002                           *
+ ****************************************
+  
+  
+ length of this simulation (years)   :       10
+ year to begin using anomalies       :     1961
+  
+ model lon, lat resolution (degrees) :     0.50    0.50
+ model domain (nlon x nlat)          : 720 by 360
+  
+ number of iterations per day        :       24
+ last year run in this sequence      :     1970
+  
+RD_PARAM: Error opening parameter file params.can   on unit  9

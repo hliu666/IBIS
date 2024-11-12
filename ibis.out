@@ -1,0 +1,968 @@
+  
+ ****************************************
+ * IBIS: Integrated BIosphere Simulator *
+ * Version 2.6b3                        *
+ * March 2002                           *
+ ****************************************
+  
+  
+ length of this simulation (years)   :       10
+ year to begin using anomalies       :     1961
+  
+ model lon, lat resolution (degrees) :     0.50    0.50
+ model domain (nlon x nlat)          : 720 by 360
+  
+ number of iterations per day        :       24
+ last year run in this sequence      :     1970
+  
+ RD_PARAM: All data read in from parameter files successfully.
+  
+ number of land points:       1718
+  
+ Error in inird while trying to open file
+ input/anom/temp.danom.nc
+ No such file or directory                                                       
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+          12        1960
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           1        1961
+  
+ ********************************
+ * start of the IBIS simulation *
+ ********************************
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           2        1961
+ starting - year/month/day: 1961/ 1/ 1
+ starting - year/month/day: 1961/ 1/ 2
+ starting - year/month/day: 1961/ 1/ 3
+ starting - year/month/day: 1961/ 1/ 4
+ starting - year/month/day: 1961/ 1/ 5
+ starting - year/month/day: 1961/ 1/ 6
+ starting - year/month/day: 1961/ 1/ 7
+ starting - year/month/day: 1961/ 1/ 8
+ starting - year/month/day: 1961/ 1/ 9
+ starting - year/month/day: 1961/ 1/10
+ starting - year/month/day: 1961/ 1/11
+ starting - year/month/day: 1961/ 1/12
+ starting - year/month/day: 1961/ 1/13
+ starting - year/month/day: 1961/ 1/14
+ starting - year/month/day: 1961/ 1/15
+ starting - year/month/day: 1961/ 1/16
+ starting - year/month/day: 1961/ 1/17
+ starting - year/month/day: 1961/ 1/18
+ starting - year/month/day: 1961/ 1/19
+ starting - year/month/day: 1961/ 1/20
+ starting - year/month/day: 1961/ 1/21
+ starting - year/month/day: 1961/ 1/22
+ starting - year/month/day: 1961/ 1/23
+ starting - year/month/day: 1961/ 1/24
+ starting - year/month/day: 1961/ 1/25
+ starting - year/month/day: 1961/ 1/26
+ starting - year/month/day: 1961/ 1/27
+ starting - year/month/day: 1961/ 1/28
+ starting - year/month/day: 1961/ 1/29
+ starting - year/month/day: 1961/ 1/30
+ starting - year/month/day: 1961/ 1/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           3        1961
+ starting - year/month/day: 1961/ 2/ 1
+ starting - year/month/day: 1961/ 2/ 2
+ starting - year/month/day: 1961/ 2/ 3
+ starting - year/month/day: 1961/ 2/ 4
+ starting - year/month/day: 1961/ 2/ 5
+ starting - year/month/day: 1961/ 2/ 6
+ starting - year/month/day: 1961/ 2/ 7
+ starting - year/month/day: 1961/ 2/ 8
+ starting - year/month/day: 1961/ 2/ 9
+ starting - year/month/day: 1961/ 2/10
+ starting - year/month/day: 1961/ 2/11
+ starting - year/month/day: 1961/ 2/12
+ starting - year/month/day: 1961/ 2/13
+ starting - year/month/day: 1961/ 2/14
+ starting - year/month/day: 1961/ 2/15
+ starting - year/month/day: 1961/ 2/16
+ starting - year/month/day: 1961/ 2/17
+ starting - year/month/day: 1961/ 2/18
+ starting - year/month/day: 1961/ 2/19
+ starting - year/month/day: 1961/ 2/20
+ starting - year/month/day: 1961/ 2/21
+ starting - year/month/day: 1961/ 2/22
+ starting - year/month/day: 1961/ 2/23
+ starting - year/month/day: 1961/ 2/24
+ starting - year/month/day: 1961/ 2/25
+ starting - year/month/day: 1961/ 2/26
+ starting - year/month/day: 1961/ 2/27
+ starting - year/month/day: 1961/ 2/28
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           4        1961
+ starting - year/month/day: 1961/ 3/ 1
+ starting - year/month/day: 1961/ 3/ 2
+ starting - year/month/day: 1961/ 3/ 3
+ starting - year/month/day: 1961/ 3/ 4
+ starting - year/month/day: 1961/ 3/ 5
+ starting - year/month/day: 1961/ 3/ 6
+ starting - year/month/day: 1961/ 3/ 7
+ starting - year/month/day: 1961/ 3/ 8
+ starting - year/month/day: 1961/ 3/ 9
+ starting - year/month/day: 1961/ 3/10
+ starting - year/month/day: 1961/ 3/11
+ starting - year/month/day: 1961/ 3/12
+ starting - year/month/day: 1961/ 3/13
+ starting - year/month/day: 1961/ 3/14
+ starting - year/month/day: 1961/ 3/15
+ starting - year/month/day: 1961/ 3/16
+ starting - year/month/day: 1961/ 3/17
+ starting - year/month/day: 1961/ 3/18
+ starting - year/month/day: 1961/ 3/19
+ starting - year/month/day: 1961/ 3/20
+ starting - year/month/day: 1961/ 3/21
+ starting - year/month/day: 1961/ 3/22
+ starting - year/month/day: 1961/ 3/23
+ starting - year/month/day: 1961/ 3/24
+ starting - year/month/day: 1961/ 3/25
+ starting - year/month/day: 1961/ 3/26
+ starting - year/month/day: 1961/ 3/27
+ starting - year/month/day: 1961/ 3/28
+ starting - year/month/day: 1961/ 3/29
+ starting - year/month/day: 1961/ 3/30
+ starting - year/month/day: 1961/ 3/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           5        1961
+ starting - year/month/day: 1961/ 4/ 1
+ starting - year/month/day: 1961/ 4/ 2
+ starting - year/month/day: 1961/ 4/ 3
+ starting - year/month/day: 1961/ 4/ 4
+ starting - year/month/day: 1961/ 4/ 5
+ starting - year/month/day: 1961/ 4/ 6
+ starting - year/month/day: 1961/ 4/ 7
+ starting - year/month/day: 1961/ 4/ 8
+ starting - year/month/day: 1961/ 4/ 9
+ starting - year/month/day: 1961/ 4/10
+ starting - year/month/day: 1961/ 4/11
+ starting - year/month/day: 1961/ 4/12
+ starting - year/month/day: 1961/ 4/13
+ starting - year/month/day: 1961/ 4/14
+ starting - year/month/day: 1961/ 4/15
+ starting - year/month/day: 1961/ 4/16
+ starting - year/month/day: 1961/ 4/17
+ starting - year/month/day: 1961/ 4/18
+ starting - year/month/day: 1961/ 4/19
+ starting - year/month/day: 1961/ 4/20
+ starting - year/month/day: 1961/ 4/21
+ starting - year/month/day: 1961/ 4/22
+ starting - year/month/day: 1961/ 4/23
+ starting - year/month/day: 1961/ 4/24
+ starting - year/month/day: 1961/ 4/25
+ starting - year/month/day: 1961/ 4/26
+ starting - year/month/day: 1961/ 4/27
+ starting - year/month/day: 1961/ 4/28
+ starting - year/month/day: 1961/ 4/29
+ starting - year/month/day: 1961/ 4/30
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           6        1961
+ starting - year/month/day: 1961/ 5/ 1
+ starting - year/month/day: 1961/ 5/ 2
+ starting - year/month/day: 1961/ 5/ 3
+ starting - year/month/day: 1961/ 5/ 4
+ starting - year/month/day: 1961/ 5/ 5
+ starting - year/month/day: 1961/ 5/ 6
+ starting - year/month/day: 1961/ 5/ 7
+ starting - year/month/day: 1961/ 5/ 8
+ starting - year/month/day: 1961/ 5/ 9
+ starting - year/month/day: 1961/ 5/10
+ starting - year/month/day: 1961/ 5/11
+ starting - year/month/day: 1961/ 5/12
+ starting - year/month/day: 1961/ 5/13
+ starting - year/month/day: 1961/ 5/14
+ starting - year/month/day: 1961/ 5/15
+ starting - year/month/day: 1961/ 5/16
+ starting - year/month/day: 1961/ 5/17
+ starting - year/month/day: 1961/ 5/18
+ starting - year/month/day: 1961/ 5/19
+ starting - year/month/day: 1961/ 5/20
+ starting - year/month/day: 1961/ 5/21
+ starting - year/month/day: 1961/ 5/22
+ starting - year/month/day: 1961/ 5/23
+ starting - year/month/day: 1961/ 5/24
+ starting - year/month/day: 1961/ 5/25
+ starting - year/month/day: 1961/ 5/26
+ starting - year/month/day: 1961/ 5/27
+ starting - year/month/day: 1961/ 5/28
+ starting - year/month/day: 1961/ 5/29
+ starting - year/month/day: 1961/ 5/30
+ starting - year/month/day: 1961/ 5/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           7        1961
+ starting - year/month/day: 1961/ 6/ 1
+ WARNING: goto 9000a         706          15           4         388
+ WARNING: goto 9000a         870          18           7         429
+ WARNING: goto 9000a         872          20          10         455
+ WARNING: goto 9000a         873          19           9         445
+ WARNING: goto 9000a         928          19           8         463
+ WARNING: goto 9000a        1325          25          11         390
+ WARNING: goto 9000a        1391          26          13         371
+ WARNING: goto 9000a        1391          27          13         388
+ WARNING: goto 9000a        1475          27          11         378
+ WARNING: goto 9000a        1565          22          10         469
+ WARNING: goto 9000a        1580          21          10         373
+ starting - year/month/day: 1961/ 6/ 2
+ starting - year/month/day: 1961/ 6/ 3
+ starting - year/month/day: 1961/ 6/ 4
+ starting - year/month/day: 1961/ 6/ 5
+ starting - year/month/day: 1961/ 6/ 6
+ starting - year/month/day: 1961/ 6/ 7
+ starting - year/month/day: 1961/ 6/ 8
+ starting - year/month/day: 1961/ 6/ 9
+ starting - year/month/day: 1961/ 6/10
+ starting - year/month/day: 1961/ 6/11
+ starting - year/month/day: 1961/ 6/12
+ starting - year/month/day: 1961/ 6/13
+ starting - year/month/day: 1961/ 6/14
+ starting - year/month/day: 1961/ 6/15
+ starting - year/month/day: 1961/ 6/16
+ starting - year/month/day: 1961/ 6/17
+ starting - year/month/day: 1961/ 6/18
+ starting - year/month/day: 1961/ 6/19
+ starting - year/month/day: 1961/ 6/20
+ starting - year/month/day: 1961/ 6/21
+ starting - year/month/day: 1961/ 6/22
+ starting - year/month/day: 1961/ 6/23
+ starting - year/month/day: 1961/ 6/24
+ starting - year/month/day: 1961/ 6/25
+ starting - year/month/day: 1961/ 6/26
+ starting - year/month/day: 1961/ 6/27
+ starting - year/month/day: 1961/ 6/28
+ starting - year/month/day: 1961/ 6/29
+ starting - year/month/day: 1961/ 6/30
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           8        1961
+ starting - year/month/day: 1961/ 7/ 1
+ WARNING: goto 9000a         582          14           5         360
+ WARNING: goto 9000a         700          19           8         433
+ WARNING: goto 9000a         763          13           6         396
+ WARNING: goto 9000a         814          16           8         362
+ WARNING: goto 9000a         871          20          10         405
+ WARNING: goto 9000a         872          21           9         372
+ WARNING: goto 9000a         872          22          11         737
+ WARNING: goto 9000a         872          23           8         382
+ WARNING: goto 9000a         872          24          11         596
+ WARNING: goto 9000a         872          25          11         377
+ WARNING: goto 9000a         872          26          10         443
+ WARNING: goto 9000a        1226          17           8         389
+ WARNING: goto 9000a        1246          23           9         471
+ WARNING: goto 9000a        1272          17           3         396
+ WARNING: goto 9000a        1286          25          12         379
+ WARNING: goto 9000a        1286          26          14         360
+ WARNING: goto 9000a        1366          19           7         496
+ WARNING: goto 9000a        1580          25          10         516
+ WARNING: goto 9000a        1592          27          10         411
+ WARNING: goto 9000a        1686          16           4         396
+ starting - year/month/day: 1961/ 7/ 2
+ starting - year/month/day: 1961/ 7/ 3
+ starting - year/month/day: 1961/ 7/ 4
+ starting - year/month/day: 1961/ 7/ 5
+ starting - year/month/day: 1961/ 7/ 6
+ starting - year/month/day: 1961/ 7/ 7
+ starting - year/month/day: 1961/ 7/ 8
+ starting - year/month/day: 1961/ 7/ 9
+ starting - year/month/day: 1961/ 7/10
+ starting - year/month/day: 1961/ 7/11
+ starting - year/month/day: 1961/ 7/12
+ starting - year/month/day: 1961/ 7/13
+ starting - year/month/day: 1961/ 7/14
+ starting - year/month/day: 1961/ 7/15
+ starting - year/month/day: 1961/ 7/16
+ starting - year/month/day: 1961/ 7/17
+ starting - year/month/day: 1961/ 7/18
+ starting - year/month/day: 1961/ 7/19
+ starting - year/month/day: 1961/ 7/20
+ starting - year/month/day: 1961/ 7/21
+ starting - year/month/day: 1961/ 7/22
+ starting - year/month/day: 1961/ 7/23
+ starting - year/month/day: 1961/ 7/24
+ starting - year/month/day: 1961/ 7/25
+ starting - year/month/day: 1961/ 7/26
+ starting - year/month/day: 1961/ 7/27
+ starting - year/month/day: 1961/ 7/28
+ starting - year/month/day: 1961/ 7/29
+ starting - year/month/day: 1961/ 7/30
+ starting - year/month/day: 1961/ 7/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           9        1961
+ starting - year/month/day: 1961/ 8/ 1
+ WARNING: goto 9000a         872          18           8         440
+ WARNING: goto 9000a        1279          16           6         381
+ WARNING: goto 9000a        1296          15           3         366
+ WARNING: goto 9000a        1359          30          11         500
+ starting - year/month/day: 1961/ 8/ 2
+ starting - year/month/day: 1961/ 8/ 3
+ starting - year/month/day: 1961/ 8/ 4
+ starting - year/month/day: 1961/ 8/ 5
+ starting - year/month/day: 1961/ 8/ 6
+ starting - year/month/day: 1961/ 8/ 7
+ starting - year/month/day: 1961/ 8/ 8
+ starting - year/month/day: 1961/ 8/ 9
+ starting - year/month/day: 1961/ 8/10
+ starting - year/month/day: 1961/ 8/11
+ starting - year/month/day: 1961/ 8/12
+ starting - year/month/day: 1961/ 8/13
+ starting - year/month/day: 1961/ 8/14
+ starting - year/month/day: 1961/ 8/15
+ starting - year/month/day: 1961/ 8/16
+ starting - year/month/day: 1961/ 8/17
+ starting - year/month/day: 1961/ 8/18
+ starting - year/month/day: 1961/ 8/19
+ starting - year/month/day: 1961/ 8/20
+ starting - year/month/day: 1961/ 8/21
+ starting - year/month/day: 1961/ 8/22
+ starting - year/month/day: 1961/ 8/23
+ starting - year/month/day: 1961/ 8/24
+ starting - year/month/day: 1961/ 8/25
+ starting - year/month/day: 1961/ 8/26
+ starting - year/month/day: 1961/ 8/27
+ starting - year/month/day: 1961/ 8/28
+ starting - year/month/day: 1961/ 8/29
+ starting - year/month/day: 1961/ 8/30
+ starting - year/month/day: 1961/ 8/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+          10        1961
+ starting - year/month/day: 1961/ 9/ 1
+ starting - year/month/day: 1961/ 9/ 2
+ starting - year/month/day: 1961/ 9/ 3
+ starting - year/month/day: 1961/ 9/ 4
+ starting - year/month/day: 1961/ 9/ 5
+ starting - year/month/day: 1961/ 9/ 6
+ starting - year/month/day: 1961/ 9/ 7
+ starting - year/month/day: 1961/ 9/ 8
+ starting - year/month/day: 1961/ 9/ 9
+ starting - year/month/day: 1961/ 9/10
+ starting - year/month/day: 1961/ 9/11
+ starting - year/month/day: 1961/ 9/12
+ starting - year/month/day: 1961/ 9/13
+ starting - year/month/day: 1961/ 9/14
+ starting - year/month/day: 1961/ 9/15
+ starting - year/month/day: 1961/ 9/16
+ starting - year/month/day: 1961/ 9/17
+ starting - year/month/day: 1961/ 9/18
+ starting - year/month/day: 1961/ 9/19
+ starting - year/month/day: 1961/ 9/20
+ starting - year/month/day: 1961/ 9/21
+ starting - year/month/day: 1961/ 9/22
+ starting - year/month/day: 1961/ 9/23
+ starting - year/month/day: 1961/ 9/24
+ starting - year/month/day: 1961/ 9/25
+ starting - year/month/day: 1961/ 9/26
+ starting - year/month/day: 1961/ 9/27
+ starting - year/month/day: 1961/ 9/28
+ starting - year/month/day: 1961/ 9/29
+ starting - year/month/day: 1961/ 9/30
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+          11        1961
+ starting - year/month/day: 1961/10/ 1
+ starting - year/month/day: 1961/10/ 2
+ starting - year/month/day: 1961/10/ 3
+ starting - year/month/day: 1961/10/ 4
+ starting - year/month/day: 1961/10/ 5
+ starting - year/month/day: 1961/10/ 6
+ starting - year/month/day: 1961/10/ 7
+ starting - year/month/day: 1961/10/ 8
+ starting - year/month/day: 1961/10/ 9
+ starting - year/month/day: 1961/10/10
+ starting - year/month/day: 1961/10/11
+ starting - year/month/day: 1961/10/12
+ starting - year/month/day: 1961/10/13
+ starting - year/month/day: 1961/10/14
+ starting - year/month/day: 1961/10/15
+ starting - year/month/day: 1961/10/16
+ starting - year/month/day: 1961/10/17
+ starting - year/month/day: 1961/10/18
+ starting - year/month/day: 1961/10/19
+ starting - year/month/day: 1961/10/20
+ starting - year/month/day: 1961/10/21
+ starting - year/month/day: 1961/10/22
+ starting - year/month/day: 1961/10/23
+ starting - year/month/day: 1961/10/24
+ starting - year/month/day: 1961/10/25
+ starting - year/month/day: 1961/10/26
+ starting - year/month/day: 1961/10/27
+ starting - year/month/day: 1961/10/28
+ starting - year/month/day: 1961/10/29
+ starting - year/month/day: 1961/10/30
+ starting - year/month/day: 1961/10/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+          12        1961
+ starting - year/month/day: 1961/11/ 1
+ starting - year/month/day: 1961/11/ 2
+ starting - year/month/day: 1961/11/ 3
+ starting - year/month/day: 1961/11/ 4
+ starting - year/month/day: 1961/11/ 5
+ starting - year/month/day: 1961/11/ 6
+ starting - year/month/day: 1961/11/ 7
+ starting - year/month/day: 1961/11/ 8
+ starting - year/month/day: 1961/11/ 9
+ starting - year/month/day: 1961/11/10
+ starting - year/month/day: 1961/11/11
+ starting - year/month/day: 1961/11/12
+ starting - year/month/day: 1961/11/13
+ starting - year/month/day: 1961/11/14
+ starting - year/month/day: 1961/11/15
+ starting - year/month/day: 1961/11/16
+ starting - year/month/day: 1961/11/17
+ starting - year/month/day: 1961/11/18
+ starting - year/month/day: 1961/11/19
+ starting - year/month/day: 1961/11/20
+ starting - year/month/day: 1961/11/21
+ starting - year/month/day: 1961/11/22
+ starting - year/month/day: 1961/11/23
+ starting - year/month/day: 1961/11/24
+ starting - year/month/day: 1961/11/25
+ starting - year/month/day: 1961/11/26
+ starting - year/month/day: 1961/11/27
+ starting - year/month/day: 1961/11/28
+ starting - year/month/day: 1961/11/29
+ starting - year/month/day: 1961/11/30
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           1        1962
+ starting - year/month/day: 1961/12/ 1
+ starting - year/month/day: 1961/12/ 2
+ starting - year/month/day: 1961/12/ 3
+ starting - year/month/day: 1961/12/ 4
+ starting - year/month/day: 1961/12/ 5
+ starting - year/month/day: 1961/12/ 6
+ starting - year/month/day: 1961/12/ 7
+ starting - year/month/day: 1961/12/ 8
+ starting - year/month/day: 1961/12/ 9
+ starting - year/month/day: 1961/12/10
+ starting - year/month/day: 1961/12/11
+ starting - year/month/day: 1961/12/12
+ starting - year/month/day: 1961/12/13
+ starting - year/month/day: 1961/12/14
+ starting - year/month/day: 1961/12/15
+ starting - year/month/day: 1961/12/16
+ starting - year/month/day: 1961/12/17
+ starting - year/month/day: 1961/12/18
+ starting - year/month/day: 1961/12/19
+ starting - year/month/day: 1961/12/20
+ starting - year/month/day: 1961/12/21
+ starting - year/month/day: 1961/12/22
+ starting - year/month/day: 1961/12/23
+ starting - year/month/day: 1961/12/24
+ starting - year/month/day: 1961/12/25
+ starting - year/month/day: 1961/12/26
+ starting - year/month/day: 1961/12/27
+ starting - year/month/day: 1961/12/28
+ starting - year/month/day: 1961/12/29
+ starting - year/month/day: 1961/12/30
+ starting - year/month/day: 1961/12/31
+  
+ writing monthly output
+  
+  
+ * * * annual diagnostic fields * * *
+  
+ total nee             of the domain (gt-c/yr) :      1.69339
+ total npp             of the domain (gt-c/yr) :        1.693
+ total gpp             of the domain (gt-c/yr) :        5.918
+ total biomass         of the domain (gt-c)    :       28.895
+ aboveground litter    of the domain (gt-c)    :        0.000
+ belowground litter    of the domain (gt-c)    :        0.000
+ total soil carbon     of the domain (gt-c)    :        0.000
+ total soil co2 flux   of the domain (gt-c)    :        0.786
+ aboveground litter n  of the domain (gt-c)    :        0.000
+ belowground litter n  of the domain (gt-c)    :        0.000
+ total soil nitrogen   of the domain (gt-c)    :        0.000
+  
+ average precipitation of the domain (mm/yr)   :     1098.323
+ average aet           of the domain (mm/yr)   :      658.969
+ average transpiration of the domain (mm/yr)   :      410.610
+ average runoff        of the domain (mm/yr)   :      346.064
+ average surf runoff   of the domain (mm/yr)   :      286.579
+ average drainage      of the domain (mm/yr)   :       59.484
+ average moisture recharge of the domain (mm/yr) :       94.346
+  
+ total aet      / precipitation                :        0.600
+ total runoff   / precipitation                :        0.315
+  
+ transpiration  / total aet                    :        0.623
+ surface runoff / total runoff                 :        0.828
+  
+  
+ writing annual output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           2        1962
+ starting - year/month/day: 1962/ 1/ 1
+ starting - year/month/day: 1962/ 1/ 2
+ starting - year/month/day: 1962/ 1/ 3
+ starting - year/month/day: 1962/ 1/ 4
+ starting - year/month/day: 1962/ 1/ 5
+ starting - year/month/day: 1962/ 1/ 6
+ starting - year/month/day: 1962/ 1/ 7
+ starting - year/month/day: 1962/ 1/ 8
+ starting - year/month/day: 1962/ 1/ 9
+ starting - year/month/day: 1962/ 1/10
+ starting - year/month/day: 1962/ 1/11
+ starting - year/month/day: 1962/ 1/12
+ starting - year/month/day: 1962/ 1/13
+ starting - year/month/day: 1962/ 1/14
+ starting - year/month/day: 1962/ 1/15
+ starting - year/month/day: 1962/ 1/16
+ starting - year/month/day: 1962/ 1/17
+ starting - year/month/day: 1962/ 1/18
+ starting - year/month/day: 1962/ 1/19
+ starting - year/month/day: 1962/ 1/20
+ starting - year/month/day: 1962/ 1/21
+ starting - year/month/day: 1962/ 1/22
+ starting - year/month/day: 1962/ 1/23
+ starting - year/month/day: 1962/ 1/24
+ starting - year/month/day: 1962/ 1/25
+ starting - year/month/day: 1962/ 1/26
+ starting - year/month/day: 1962/ 1/27
+ starting - year/month/day: 1962/ 1/28
+ starting - year/month/day: 1962/ 1/29
+ starting - year/month/day: 1962/ 1/30
+ starting - year/month/day: 1962/ 1/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           3        1962
+ starting - year/month/day: 1962/ 2/ 1
+ starting - year/month/day: 1962/ 2/ 2
+ starting - year/month/day: 1962/ 2/ 3
+ starting - year/month/day: 1962/ 2/ 4
+ starting - year/month/day: 1962/ 2/ 5
+ starting - year/month/day: 1962/ 2/ 6
+ starting - year/month/day: 1962/ 2/ 7
+ starting - year/month/day: 1962/ 2/ 8
+ starting - year/month/day: 1962/ 2/ 9
+ starting - year/month/day: 1962/ 2/10
+ starting - year/month/day: 1962/ 2/11
+ starting - year/month/day: 1962/ 2/12
+ starting - year/month/day: 1962/ 2/13
+ starting - year/month/day: 1962/ 2/14
+ starting - year/month/day: 1962/ 2/15
+ starting - year/month/day: 1962/ 2/16
+ starting - year/month/day: 1962/ 2/17
+ starting - year/month/day: 1962/ 2/18
+ starting - year/month/day: 1962/ 2/19
+ starting - year/month/day: 1962/ 2/20
+ starting - year/month/day: 1962/ 2/21
+ starting - year/month/day: 1962/ 2/22
+ starting - year/month/day: 1962/ 2/23
+ starting - year/month/day: 1962/ 2/24
+ starting - year/month/day: 1962/ 2/25
+ starting - year/month/day: 1962/ 2/26
+ starting - year/month/day: 1962/ 2/27
+ starting - year/month/day: 1962/ 2/28
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           4        1962
+ starting - year/month/day: 1962/ 3/ 1
+ starting - year/month/day: 1962/ 3/ 2
+ starting - year/month/day: 1962/ 3/ 3
+ starting - year/month/day: 1962/ 3/ 4
+ starting - year/month/day: 1962/ 3/ 5
+ starting - year/month/day: 1962/ 3/ 6
+ starting - year/month/day: 1962/ 3/ 7
+ starting - year/month/day: 1962/ 3/ 8
+ starting - year/month/day: 1962/ 3/ 9
+ starting - year/month/day: 1962/ 3/10
+ starting - year/month/day: 1962/ 3/11
+ starting - year/month/day: 1962/ 3/12
+ starting - year/month/day: 1962/ 3/13
+ starting - year/month/day: 1962/ 3/14
+ starting - year/month/day: 1962/ 3/15
+ starting - year/month/day: 1962/ 3/16
+ starting - year/month/day: 1962/ 3/17
+ starting - year/month/day: 1962/ 3/18
+ starting - year/month/day: 1962/ 3/19
+ starting - year/month/day: 1962/ 3/20
+ starting - year/month/day: 1962/ 3/21
+ starting - year/month/day: 1962/ 3/22
+ starting - year/month/day: 1962/ 3/23
+ starting - year/month/day: 1962/ 3/24
+ starting - year/month/day: 1962/ 3/25
+ starting - year/month/day: 1962/ 3/26
+ starting - year/month/day: 1962/ 3/27
+ starting - year/month/day: 1962/ 3/28
+ starting - year/month/day: 1962/ 3/29
+ starting - year/month/day: 1962/ 3/30
+ starting - year/month/day: 1962/ 3/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           5        1962
+ starting - year/month/day: 1962/ 4/ 1
+ starting - year/month/day: 1962/ 4/ 2
+ starting - year/month/day: 1962/ 4/ 3
+ starting - year/month/day: 1962/ 4/ 4
+ starting - year/month/day: 1962/ 4/ 5
+ starting - year/month/day: 1962/ 4/ 6
+ starting - year/month/day: 1962/ 4/ 7
+ starting - year/month/day: 1962/ 4/ 8
+ starting - year/month/day: 1962/ 4/ 9
+ starting - year/month/day: 1962/ 4/10
+ starting - year/month/day: 1962/ 4/11
+ starting - year/month/day: 1962/ 4/12
+ starting - year/month/day: 1962/ 4/13
+ starting - year/month/day: 1962/ 4/14
+ starting - year/month/day: 1962/ 4/15
+ starting - year/month/day: 1962/ 4/16
+ starting - year/month/day: 1962/ 4/17
+ starting - year/month/day: 1962/ 4/18
+ starting - year/month/day: 1962/ 4/19
+ starting - year/month/day: 1962/ 4/20
+ starting - year/month/day: 1962/ 4/21
+ starting - year/month/day: 1962/ 4/22
+ starting - year/month/day: 1962/ 4/23
+ starting - year/month/day: 1962/ 4/24
+ starting - year/month/day: 1962/ 4/25
+ starting - year/month/day: 1962/ 4/26
+ starting - year/month/day: 1962/ 4/27
+ starting - year/month/day: 1962/ 4/28
+ starting - year/month/day: 1962/ 4/29
+ starting - year/month/day: 1962/ 4/30
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           6        1962
+ starting - year/month/day: 1962/ 5/ 1
+ starting - year/month/day: 1962/ 5/ 2
+ starting - year/month/day: 1962/ 5/ 3
+ starting - year/month/day: 1962/ 5/ 4
+ starting - year/month/day: 1962/ 5/ 5
+ starting - year/month/day: 1962/ 5/ 6
+ starting - year/month/day: 1962/ 5/ 7
+ starting - year/month/day: 1962/ 5/ 8
+ starting - year/month/day: 1962/ 5/ 9
+ starting - year/month/day: 1962/ 5/10
+ starting - year/month/day: 1962/ 5/11
+ starting - year/month/day: 1962/ 5/12
+ starting - year/month/day: 1962/ 5/13
+ starting - year/month/day: 1962/ 5/14
+ starting - year/month/day: 1962/ 5/15
+ starting - year/month/day: 1962/ 5/16
+ starting - year/month/day: 1962/ 5/17
+ starting - year/month/day: 1962/ 5/18
+ starting - year/month/day: 1962/ 5/19
+ starting - year/month/day: 1962/ 5/20
+ starting - year/month/day: 1962/ 5/21
+ starting - year/month/day: 1962/ 5/22
+ starting - year/month/day: 1962/ 5/23
+ starting - year/month/day: 1962/ 5/24
+ starting - year/month/day: 1962/ 5/25
+ starting - year/month/day: 1962/ 5/26
+ starting - year/month/day: 1962/ 5/27
+ starting - year/month/day: 1962/ 5/28
+ starting - year/month/day: 1962/ 5/29
+ starting - year/month/day: 1962/ 5/30
+ starting - year/month/day: 1962/ 5/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           7        1962
+ starting - year/month/day: 1962/ 6/ 1
+ WARNING: goto 9000a         817          18           9         442
+ WARNING: goto 9000a         984          19          12         376
+ WARNING: goto 9000a        1146          18           8         413
+ WARNING: goto 9000a        1196          19           7         534
+ WARNING: goto 9000a        1325          26          10         406
+ WARNING: goto 9000a        1360          26          10         363
+ WARNING: goto 9000a        1360          27          11         444
+ WARNING: goto 9000a        1396          14           6         395
+ starting - year/month/day: 1962/ 6/ 2
+ starting - year/month/day: 1962/ 6/ 3
+ starting - year/month/day: 1962/ 6/ 4
+ starting - year/month/day: 1962/ 6/ 5
+ starting - year/month/day: 1962/ 6/ 6
+ starting - year/month/day: 1962/ 6/ 7
+ starting - year/month/day: 1962/ 6/ 8
+ starting - year/month/day: 1962/ 6/ 9
+ starting - year/month/day: 1962/ 6/10
+ starting - year/month/day: 1962/ 6/11
+ starting - year/month/day: 1962/ 6/12
+ starting - year/month/day: 1962/ 6/13
+ starting - year/month/day: 1962/ 6/14
+ starting - year/month/day: 1962/ 6/15
+ starting - year/month/day: 1962/ 6/16
+ starting - year/month/day: 1962/ 6/17
+ starting - year/month/day: 1962/ 6/18
+ starting - year/month/day: 1962/ 6/19
+ starting - year/month/day: 1962/ 6/20
+ starting - year/month/day: 1962/ 6/21
+ starting - year/month/day: 1962/ 6/22
+ starting - year/month/day: 1962/ 6/23
+ starting - year/month/day: 1962/ 6/24
+ starting - year/month/day: 1962/ 6/25
+ starting - year/month/day: 1962/ 6/26
+ starting - year/month/day: 1962/ 6/27
+ starting - year/month/day: 1962/ 6/28
+ starting - year/month/day: 1962/ 6/29
+ starting - year/month/day: 1962/ 6/30
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           8        1962
+ starting - year/month/day: 1962/ 7/ 1
+ WARNING: goto 9000a         701          20           9         375
+ WARNING: goto 9000a         707          15           5         395
+ WARNING: goto 9000a         707          16           6         391
+ WARNING: goto 9000a         873          20          13         454
+ WARNING: goto 9000a        1287          26           9         566
+ WARNING: goto 9000a        1450          30          12         392
+ WARNING: goto 9000a        1565          25          12         367
+ starting - year/month/day: 1962/ 7/ 2
+ starting - year/month/day: 1962/ 7/ 3
+ starting - year/month/day: 1962/ 7/ 4
+ starting - year/month/day: 1962/ 7/ 5
+ starting - year/month/day: 1962/ 7/ 6
+ starting - year/month/day: 1962/ 7/ 7
+ starting - year/month/day: 1962/ 7/ 8
+ starting - year/month/day: 1962/ 7/ 9
+ starting - year/month/day: 1962/ 7/10
+ starting - year/month/day: 1962/ 7/11
+ starting - year/month/day: 1962/ 7/12
+ starting - year/month/day: 1962/ 7/13
+ starting - year/month/day: 1962/ 7/14
+ starting - year/month/day: 1962/ 7/15
+ starting - year/month/day: 1962/ 7/16
+ starting - year/month/day: 1962/ 7/17
+ starting - year/month/day: 1962/ 7/18
+ starting - year/month/day: 1962/ 7/19
+ starting - year/month/day: 1962/ 7/20
+ starting - year/month/day: 1962/ 7/21
+ starting - year/month/day: 1962/ 7/22
+ starting - year/month/day: 1962/ 7/23
+ starting - year/month/day: 1962/ 7/24
+ starting - year/month/day: 1962/ 7/25
+ starting - year/month/day: 1962/ 7/26
+ starting - year/month/day: 1962/ 7/27
+ starting - year/month/day: 1962/ 7/28
+ starting - year/month/day: 1962/ 7/29
+ starting - year/month/day: 1962/ 7/30
+ starting - year/month/day: 1962/ 7/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+           9        1962
+ starting - year/month/day: 1962/ 8/ 1
+ WARNING: goto 9000a        1176          17           4         374
+ WARNING: goto 9000a        1297          12           4         471
+ WARNING: goto 9000a        1359          31          12         531
+ WARNING: goto 9000a        1391          29          11         365
+ WARNING: goto 9000a        1521          29          12         393
+ starting - year/month/day: 1962/ 8/ 2
+ starting - year/month/day: 1962/ 8/ 3
+ starting - year/month/day: 1962/ 8/ 4
+ starting - year/month/day: 1962/ 8/ 5
+ starting - year/month/day: 1962/ 8/ 6
+ starting - year/month/day: 1962/ 8/ 7
+ starting - year/month/day: 1962/ 8/ 8
+ starting - year/month/day: 1962/ 8/ 9
+ starting - year/month/day: 1962/ 8/10
+ starting - year/month/day: 1962/ 8/11
+ starting - year/month/day: 1962/ 8/12
+ starting - year/month/day: 1962/ 8/13
+ starting - year/month/day: 1962/ 8/14
+ starting - year/month/day: 1962/ 8/15
+ starting - year/month/day: 1962/ 8/16
+ starting - year/month/day: 1962/ 8/17
+ starting - year/month/day: 1962/ 8/18
+ starting - year/month/day: 1962/ 8/19
+ starting - year/month/day: 1962/ 8/20
+ starting - year/month/day: 1962/ 8/21
+ starting - year/month/day: 1962/ 8/22
+ starting - year/month/day: 1962/ 8/23
+ starting - year/month/day: 1962/ 8/24
+ starting - year/month/day: 1962/ 8/25
+ starting - year/month/day: 1962/ 8/26
+ starting - year/month/day: 1962/ 8/27
+ starting - year/month/day: 1962/ 8/28
+ starting - year/month/day: 1962/ 8/29
+ starting - year/month/day: 1962/ 8/30
+ starting - year/month/day: 1962/ 8/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+          10        1962
+ starting - year/month/day: 1962/ 9/ 1
+ starting - year/month/day: 1962/ 9/ 2
+ starting - year/month/day: 1962/ 9/ 3
+ starting - year/month/day: 1962/ 9/ 4
+ starting - year/month/day: 1962/ 9/ 5
+ starting - year/month/day: 1962/ 9/ 6
+ starting - year/month/day: 1962/ 9/ 7
+ starting - year/month/day: 1962/ 9/ 8
+ starting - year/month/day: 1962/ 9/ 9
+ starting - year/month/day: 1962/ 9/10
+ starting - year/month/day: 1962/ 9/11
+ starting - year/month/day: 1962/ 9/12
+ starting - year/month/day: 1962/ 9/13
+ starting - year/month/day: 1962/ 9/14
+ starting - year/month/day: 1962/ 9/15
+ starting - year/month/day: 1962/ 9/16
+ starting - year/month/day: 1962/ 9/17
+ starting - year/month/day: 1962/ 9/18
+ starting - year/month/day: 1962/ 9/19
+ starting - year/month/day: 1962/ 9/20
+ starting - year/month/day: 1962/ 9/21
+ starting - year/month/day: 1962/ 9/22
+ starting - year/month/day: 1962/ 9/23
+ starting - year/month/day: 1962/ 9/24
+ starting - year/month/day: 1962/ 9/25
+ starting - year/month/day: 1962/ 9/26
+ starting - year/month/day: 1962/ 9/27
+ starting - year/month/day: 1962/ 9/28
+ starting - year/month/day: 1962/ 9/29
+ starting - year/month/day: 1962/ 9/30
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+          11        1962
+ starting - year/month/day: 1962/10/ 1
+ starting - year/month/day: 1962/10/ 2
+ starting - year/month/day: 1962/10/ 3
+ starting - year/month/day: 1962/10/ 4
+ starting - year/month/day: 1962/10/ 5
+ starting - year/month/day: 1962/10/ 6
+ starting - year/month/day: 1962/10/ 7
+ starting - year/month/day: 1962/10/ 8
+ starting - year/month/day: 1962/10/ 9
+ starting - year/month/day: 1962/10/10
+ starting - year/month/day: 1962/10/11
+ starting - year/month/day: 1962/10/12
+ starting - year/month/day: 1962/10/13
+ starting - year/month/day: 1962/10/14
+ starting - year/month/day: 1962/10/15
+ starting - year/month/day: 1962/10/16
+ starting - year/month/day: 1962/10/17
+ starting - year/month/day: 1962/10/18
+ starting - year/month/day: 1962/10/19
+ starting - year/month/day: 1962/10/20
+ starting - year/month/day: 1962/10/21
+ starting - year/month/day: 1962/10/22
+ starting - year/month/day: 1962/10/23
+ starting - year/month/day: 1962/10/24
+ starting - year/month/day: 1962/10/25
+ starting - year/month/day: 1962/10/26
+ starting - year/month/day: 1962/10/27
+ starting - year/month/day: 1962/10/28
+ starting - year/month/day: 1962/10/29
+ starting - year/month/day: 1962/10/30
+ starting - year/month/day: 1962/10/31
+  
+ writing monthly output
+  
+ WARNING, anomalies begin in year         9999
+ Not reading in anomalies for month year =
+          12        1962
+ starting - year/month/day: 1962/11/ 1
+ starting - year/month/day: 1962/11/ 2
+ starting - year/month/day: 1962/11/ 3
+ starting - year/month/day: 1962/11/ 4
+ starting - year/month/day: 1962/11/ 5
+ starting - year/month/day: 1962/11/ 6
+ starting - year/month/day: 1962/11/ 7
+ starting - year/month/day: 1962/11/ 8
+ starting - year/month/day: 1962/11/ 9
+ starting - year/month/day: 1962/11/10
+ starting - year/month/day: 1962/11/11
+Note: The following floating-point exceptions are signalling: IEEE_DIVIDE_BY_ZERO IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+STOP 1
+ starting - year/month/day: 1962/11/12
+ starting - year/month/day: 1962/11/13
+ starting - year/month/day: 1962/11/14
+ starting - year/month/day: 1962/11/15
+ starting - year/month/day: 1962/11/16
+ starting - year/month/day: 1962/11/17
+ starting - year/month/day: 1962/11/18
+ starting - year/month/day: 1962/11/19
+ starting - year/month/day: 1962/11/20
+ starting - year/month/day: 1962/11/21
+ starting - year/month/day: 1962/11/22
+ starting - year/month/day: 1962/11/23
+ starting - year/month/day: 1962/11/24
+ starting - year/month/day: 1962/11/25
+ starting - year/month/day: 1962/11/26
+ starting - year/month/day: 1962/11/27
+ starting - year/month/day: 1962/11/28
+ starting - year/month/day: 1962/11/29
+ starting - year/month/day: 1962/11/30
+  
+ writing monthly output
+  
+ rdanom reading month year step =
+           1        9999           1
+ Warning in readvar
+ No such file or directory                                                       
+ Error in readvar
+ NetCDF: Not a valid ID                                                          
+ ERROR in rdanom, temp
